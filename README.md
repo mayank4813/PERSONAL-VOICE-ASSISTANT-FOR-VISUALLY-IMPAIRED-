@@ -21,9 +21,6 @@ Text-to-Speech (TTS) (e.g., Google TTS, Festival)
 Wake Word Detection (e.g., PocketSphinx, Vosk, Snowboy)
 🚀 Installation
 
-1️⃣ Clone this repository:
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
 
 2️⃣ Install dependencies:
 pip install -r requirements.txt
