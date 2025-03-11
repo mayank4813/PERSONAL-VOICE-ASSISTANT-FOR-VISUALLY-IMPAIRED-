@@ -24,6 +24,12 @@ Wake Word Detection (e.g., PocketSphinx, Vosk, Snowboy)
 
 2️⃣ Install dependencies:
 pip install -r requirements.txt
+pip install SpeechRecognition
+pip install pyttsx3
+pip install pyaudio
+pip install pipwin
+pipwin install pyaudio
+
 
 3️⃣ Run the assistant:
 python main.py
